@@ -5,6 +5,5 @@ int  main()
 {
     printf("test git\n");
 
-
-	return;
+    return;
 }
